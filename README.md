@@ -1,1 +1,1 @@
-# projects
+# landing page
